@@ -1,0 +1,1 @@
+python choiceAlgorithm.py -algorithm 1 -share 2

@@ -1,0 +1,5 @@
+# 文件夹测试
+python main.py -src "C:\Users\LZP\Desktop\富途比赛算法代码\有很多注释版本（没用的功能都注释了，以后用方便）\InfomationExtraction\InquiryLetter\inqueryLetter.pdf" -choice 2
+
+# 文件测试
+python main.py -src "C:\Users\LZP\Desktop\富途比赛算法代码\有很多注释版本（没用的功能都注释了，以后用方便）\InfomationExtraction\InquiryLetter\inqueryLetter.pdf\LSD000038176303.pdf" -choice 1

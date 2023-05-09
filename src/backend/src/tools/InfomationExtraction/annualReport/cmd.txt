@@ -1,0 +1,1 @@
+python main.py -income_path '利润表路径' -cashflow_path '现金流量表路径' -assets_path '资产负债表路径'
